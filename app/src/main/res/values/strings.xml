@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChallengePapbDua</string>
+    <string name="you">You</string>
+    <string name="computer">Computer</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="your_score">Your Score</string>
+    <string name="computer_score">Computer Score</string>
+    <string name="play">Play</string>
+    <string name="history">History</string>
+    <string name="refresh">Refresh</string>
+</resources>
